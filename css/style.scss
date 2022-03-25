@@ -1,0 +1,15 @@
+  
+@use "sections/header";
+@use "sections/article-root";
+@use "sections/footer";
+
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  html{
+    font-family: 'League Spartan', sans-serif;
+
+}
+  
