@@ -1,6 +1,6 @@
 # The Essential Articles 
 
-[essentialarticles.io](essentialarticles.io)
+[essentialarticles.io](https://essentialarticles.io/)
 > An elegant feed of current trending articles from The New York Times API
 
 ### Project Goals 
